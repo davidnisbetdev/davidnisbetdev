@@ -6,7 +6,7 @@
 ### <div align="center">I'm David, a full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Rick and Morty Search](https://github.com/davidnisbetdev/APIWebsite)  
+- 🔭 I’m currently working on [My ToDo List App](https://github.com/davidnisbetdev/todo-task-fullstack)  
   
 
 - 🌱 I’m currently learning React, Express, and Node.JS  
