@@ -6,10 +6,10 @@
 ### <div align="center">I'm David, a full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Aerospace License Site](https://github.com/davidnisbetdev/aerospace-license-site)
+- 🔭 I’m currently working on [How To EV](https://github.com/davidnisbetdev/howToEV)
   
 
-- 🌱 I’m currently learning React, Express, and Node.JS  
+- 🌱 I’m currently learning Swift, React, Express, and Node.JS  
   
 
 <br/>  
