@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [How To EV](https://github.com/davidnisbetdev/howToEV)
   
 
-- 🌱 I’m currently learning Swift, React, Express, and Node.JS  
+- 🌱 I’m currently learning Swift, React, Express, MySQL, and Node.JS  
   
 
 <br/>  
