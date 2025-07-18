@@ -6,7 +6,7 @@
 ### <div align="center">I'm David, a full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [napBuddy]([https://github.com/davidnisbetdev/howToEV](https://github.com/davidnisbetdev/napApp))
+- 🔭 I’m currently working on [napBuddy](https://github.com/davidnisbetdev/howToEV](https://github.com/davidnisbetdev/napApp)
   
 
 - 🌱 I’m currently learning Swift, React, Express, MySQL, and Node.JS  
