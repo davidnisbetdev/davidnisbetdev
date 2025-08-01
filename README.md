@@ -4,7 +4,7 @@ I'm **David Nisbet**, a passionate software engineer based in Stewarton, Scotlan
 
 ## About Me
 
-I am a software engineer with extensive knowledge in **HTML, CSS, JavaScript, React, Node.js, and MongoDB**. I am currently exploring new technologies and frameworks to enhance my skills and broaden my expertise. Feel free to check out my personal website at [davidnisbet.dev](https://davidnisbet.dev)!
+I am a software engineer with extensive knowledge in **HTML, CSS, JavaScript, React, Node.js, and MongoDB**. I am currently exploring new technologies and frameworks to enhance my skills and broaden my expertise. Feel free to check out my personal website [here](https://davidnisbet.netlify.app)!
 
 ## Skills & Technologies
 
