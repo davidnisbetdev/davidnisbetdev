@@ -1,107 +1,40 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+## Hi there! 👋
 
-### <div align="center">I'm David, a full-stack developer 👨‍💻</div>  
-  
+I'm **David Nisbet**, a passionate software engineer based in Stewarton, Scotland. I specialize in web development and love creating efficient and user-friendly applications. Let's build something amazing together!
 
-- 🔭 I’m currently working on [napBuddy][https://github.com/davidnisbetdev/napApp]
-  
+## About Me
 
-- 🌱 I’m currently learning Swift, React, Express, MySQL, and Node.JS  
-  
+I am a software engineer with extensive knowledge in **HTML, CSS, JavaScript, React, Node.js, and MongoDB**. I am currently exploring new technologies and frameworks to enhance my skills and broaden my expertise. Feel free to check out my personal website at [davidnisbet.dev](https://davidnisbet.dev)!
 
-<br/>  
+## Skills & Technologies
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,swift,nodejs,express,mongodb&perline=8)](https://skillicons.dev)
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## Top Projects
 
+[![gpIllustration](https://github-readme-stats.vercel.app/api/pin/?username=davidnisbetdev&repo=gpIllustration&theme=dark)](https://github.com/davidnisbetdev/gpIllustration)
+[![napApp](https://github-readme-stats.vercel.app/api/pin/?username=davidnisbetdev&repo=napApp&theme=dark)](https://github.com/davidnisbetdev/napApp)
+[![clergy-website](https://github-readme-stats.vercel.app/api/pin/?username=davidnisbetdev&repo=clergy-website&theme=dark)](https://github.com/davidnisbetdev/clergy-website)
 
+## GitHub Stats
+🏆 **Public Repos:** 26  
+👥 **Followers:** 5  
+🔗 **Following:** 9  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidnisbetdev&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidnisbetdev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-</div>
+## Recent Activity
 
-</td><td valign="top" width="33%">
+- Opened a pull request in [gpIllustration](https://github.com/davidnisbetdev/gpIllustration/pull/5) to add pagination.
+- Pushed updates to the [gpIllustration](https://github.com/davidnisbetdev/gpIllustration) repository.
+- Closed pull request #4 in [gpIllustration](https://github.com/davidnisbetdev/gpIllustration/pull/4).
+- Merged changes from main to dev in [gpIllustration](https://github.com/davidnisbetdev/gpIllustration).
+- Updated styling for the header image in [gpIllustration](https://github.com/davidnisbetdev/gpIllustration).
 
+## Latest Blog Posts
 
+No blog posts available yet. Stay tuned for updates!
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /> <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-</div>
+## Connect with Me
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/davidnisbetdev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/davidnisbetdev" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/davidnisbet-dev" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/nizzycodes" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=davidnisbetdev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/wuhekilo" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<a href="https://davidnisbet.netlify.app" target="_blank" rel="noopener noreferrer"><Icon /> Website</a> | <a href="https://www.linkedin.com/in/davidnisbet-mech/" target="_blank" rel="noopener noreferrer"><Icon /> LinkedIn</a>
